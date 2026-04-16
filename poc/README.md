@@ -1,4 +1,4 @@
-# MotionSemanticProvenanceAI — POC
+# MotionSemanticProvenanceAI
 
 **Meta Chain-of-Thought Guided Physics-Semantic Provenance Verification**  
 *Proof-of-Concept implementing the pipeline from Indranill Datta, 2026 (Pre-Print)*
